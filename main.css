@@ -1,0 +1,14 @@
+body {
+    background-color: #333333;
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size:60px;
+}
+
+#demo {
+    font-size:48px;
+}
